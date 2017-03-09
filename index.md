@@ -23,7 +23,7 @@
     float: left;}
  section {background-color: pink;}
  article{background-color: powderblue;}   
-  footer{background-color: blue;
+  footer{background-color: green;
     clear: both;}
   </style>
 </head>
