@@ -10,7 +10,7 @@
    background-color: blue;
     padding: 1em;
    text-align: center;}
- nav {background-color: yellow;
+ nav {background-color: red;
     height: 30px;
     color: white;
     font-size: 30px;
