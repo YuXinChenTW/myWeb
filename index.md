@@ -17,12 +17,12 @@
     padding: 10px;
     margin:20px;
     text-align: center;}
- aside {background-color: pink;
+ aside {background-color: gray;
     height: 100px;
     width: 100px;
     float: left;}
  section {background-color: pink;}
- article{background-color: gray;}   
+ article{background-color: powderblue;}   
   footer{background-color: blue;
     clear: both;}
   </style>
