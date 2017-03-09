@@ -10,19 +10,19 @@
    background-color: blue;
     padding: 1em;
    text-align: center;}
- nav {background-color: black;
+ nav {background-color: yellow;
     height: 30px;
     color: white;
     font-size: 30px;
     padding: 10px;
     margin:20px;
     text-align: center;}
- aside {background-color: red;
+ aside {background-color: pink;
     height: 100px;
     width: 100px;
     float: left;}
- section {background-color: indigo;}
- article{background-color: yellow;}   
+ section {background-color: blue;}
+ article{background-color: orang;}   
   footer{background-color: pink;
     clear: both;}
   </style>
