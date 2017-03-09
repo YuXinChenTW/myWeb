@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/YuXinChenTW/myWeb/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YuXinChenTW/myWeb/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html>
+  <!-- index.html -->
+<head>
+<meta charset="BIG5">
+<title>HTML  5  layout</title>
+  <style>
+     body {background-color:powderblue;}
+ header {
+   background-color: blue;
+    padding: 1em;
+   text-align: center;}
+ nav {background-color: black;
+    height: 30px;
+    color: white;
+    font-size: 30px;
+    padding: 10px;
+    margin:20px;
+    text-align: center;}
+ aside {background-color: red;
+    height: 100px;
+    width: 100px;
+    float: left;}
+ section {background-color: indigo;}
+ article{background-color: purple;}   
+  footer{background-color: yellow;
+    clear: both;}
+  </style>
+</head>
+  <body>
+    <!-- Write your header here -->
+    <header><h1>my header</h1></header>
+    
+    <!-- Write your nav here -->
+    <nav>my nav</nav>
+    
+     <!-- Write your aside here -->
+    <aside>my aside</aside>
+    
+    <!-- Write your section here -->
+    <section>my section </section>
+    
+    <!-- Write your article here -->
+    <article>my article</article>
+   
+    <!-- Write your footer here -->
+    <footer> my footer </footer>
+    
+  </body>
+</html>
