@@ -21,7 +21,7 @@
     height: 100px;
     width: 100px;
     float: left;}
- section {background-color: pink;}
+ section {background-color: red;}
  article{background-color: powderblue;}   
   footer{background-color: green;
     clear: both;}
