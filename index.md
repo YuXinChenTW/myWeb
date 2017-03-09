@@ -21,9 +21,9 @@
     height: 100px;
     width: 100px;
     float: left;}
- section {background-color: blue;}
- article{background-color: orang;}   
-  footer{background-color: pink;
+ section {background-color: pink;}
+ article{background-color: gray;}   
+  footer{background-color: blue;
     clear: both;}
   </style>
 </head>
