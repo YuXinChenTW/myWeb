@@ -22,8 +22,8 @@
     width: 100px;
     float: left;}
  section {background-color: indigo;}
- article{background-color: purple;}   
-  footer{background-color: yellow;
+ article{background-color: yellow;}   
+  footer{background-color: pink;
     clear: both;}
   </style>
 </head>
